@@ -32,7 +32,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Bavs' To-Do List ✅</h1>
+      <h1>Bav's To-Do List ✅</h1>
       <div className="input-container">
         <input
           type="text"
